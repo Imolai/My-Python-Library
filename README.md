@@ -10,3 +10,4 @@ summarizing some topics of Python, and programming.
 5. [Python for Data Analytics](./Python%20for%20Data%20Analytics.md)
 6. [Python Web Tool Development](./Python_Web_Tool_Development.md)
 7. [Flask Levels](./Flask_Levels.md)
+8. [SOLID, DRY and Clean Code with FIRST tests](./Solid_Dry_n_Clean_w_First.md)
